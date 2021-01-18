@@ -1,5 +1,12 @@
 # @backstage/plugin-catalog
 
+## 0.2.12
+
+### Patch Changes
+
+- 33846acfc: Display the owner, system, and domain as links to the entity pages in the about card.
+  Only display fields in the about card that are applicable to the entity kind.
+
 ## 0.2.11
 
 ### Patch Changes
